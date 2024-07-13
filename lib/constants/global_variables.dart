@@ -1,7 +1,7 @@
 final products = [
   {
     'id': '0',
-    'title': 'Men\'s Nike T-Shirts',
+    'title': 'Men\'s Nike Shirts',
     'price': 44.52,
     'imageUrl': 'assets/images/t1.jpeg',
     'company': 'Nike',
@@ -9,7 +9,7 @@ final products = [
   },
   {
     'id': '1',
-    'title': 'Addidas T-Shirts',
+    'title': 'Addidas Shirts',
     'price': 20.12,
     'imageUrl': 'assets/images/t2.jpeg',
     'company': 'Addidas',
@@ -17,7 +17,7 @@ final products = [
   },
   {
     'id': '2',
-    'title': 'Jara T-Shirts',
+    'title': 'Jara Shirts',
     'price': 28.95,
     'imageUrl': 'assets/images/t3.jpeg',
     'company': 'Jara',
@@ -25,21 +25,10 @@ final products = [
   },
   {
     'id': '3',
-    'title': 'THunder T-Shirts',
+    'title': 'Thunder Shirts',
     'price': 420.69,
     'imageUrl': 'assets/images/t4.jpeg',
     'company': 'Thunder',
     'sizes': [8, 9, 10],
-  },
-];
-
-final cart = [
-  {
-    'id': '3',
-    'title': 'Jordan Shoes',
-    'price': 420.69,
-    'imageUrl': 'assets/images/t4.jpeg',
-    'company': 'Nike',
-    'sizes': 8,
   },
 ];
